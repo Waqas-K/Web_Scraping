@@ -1,0 +1,67 @@
+,Price,Beds,Baths,Address,MLS#,Tag1,Tag2
+0,"$779,900",4 bed,2 bath,"2471 Westmount St, Halifax, NS", 202202387,NEW,
+1,"$499,900",3 bed,2 bath,"3263 Devonshire Ave, Halifax, NS", 202202346,NEW,
+2,"$925,000",4 bed,3 bath,"1561 Vernon St, Halifax Peninsula, NS", 202202309,NEW,
+3,"$2,150,000",2 bed,3 bath,"1103/1203 67 King's Wharf Place, Dartmouth, NS", 202202315,COLLECTION,NEW
+4,"$399,900",3 bed,2 bath,"6467 Cloverdale Rd, West End, NS", 202202304,NEW,
+5,"$599,900",3 bed,2 bath,"3385 Agricola St, Halifax, NS", 202202301,NEW,
+6,"$389,900",1 bed,1 bath,"511 - 1065 Barrington St, Halifax, NS", 202202343,NEW,
+7,"$450,000",1 bed,1 bath,"1003 - 15 Kings Wharf Pl, Dartmouth, NS", 202202262,NEW,
+8,"$1,295,000",n/a bed,n/a bath,"1637 Chestnut St, Halifax, NS", 202202252,NEW,
+9,"$729,000",n/a bed,n/a bath,"6248 - 6250 Allan St, Halifax, NS", 202202190,NEW,
+10,"$1,499,000",n/a bed,n/a bath,"91 - 93 Ochterloney St, Dartmouth, NS", 202202096,NEW,
+11,"$549,900",3 bed,2 bath,"2479 Connaught Ave, Halifax Peninsula, NS", 202202176,NEW,
+12,"$450,000",3 bed,2 bath,"2909 Connaught Ave, Halifax, NS", 202202118,NEW,
+13,"$799,900",2 bed,2 bath,"702 - 5839 Cunard St, Halifax, NS", 202202075,COLLECTION,NEW
+14,"$224,900",1 bed,1 bath,"10 Provost St, Dartmouth, NS", 202202025,NEW,
+15,"$699,900",n/a bed,n/a bath,"2319 - 2321 Clifton St, Halifax, NS", 202202045,NEW,
+16,"$449,900",2 bed,2 bath,"25 Johnstone Ave, Dartmouth, NS", 202202003,NEW,
+17,"$1,175,000",n/a bed,n/a bath,"1676 Chestnut St, Halifax, NS", 202201978,NEW,
+18,"$579,900",3 bed,4 bath,"3862 Rockhead Crt, Halifax, NS", 202201950,NEW,
+19,"$399,000",9 bed,3 bath,"56 Chadwick St, Woodside, NS", 202201912,UPDATED,
+20,"$1,199,000",2 bed,2 bath,"807 1990 Vernon Street, Halifax Peninsula, NS", 202201816,COLLECTION,UPDATED
+21,"$260,000",1 bed,1 bath,"502 - 5959 Spring Garden Rd, Halifax, NS", 202201745,UPDATED,
+22,"$84,700",3 bed,2 bath,"8 Florence Ave, Dartmouth, NS", 202201728,UPDATED,
+23,"$479,000",2 bed,2 bath,"3344 Devonshire Ave, Halifax, NS", 202201545,UPDATED,
+24,"$549,900",2 bed,2 bath,"205 - 67 Kings Wharf Pl, Dartmouth, NS", 202201578,UPDATED,
+25,"$754,900",n/a bed,n/a bath,"6242 - 6244 North St, Halifax Peninsula, NS", 202201400,UPDATED,
+26,"$1,499,000",n/a bed,n/a bath,"2740 Gottingen St, Halifax, NS", 202201343,,
+27,"$839,000",n/a bed,n/a bath,"5528 Kaye St, Halifax, NS", 202201310,,
+28,"$199,900",0 bed,1 bath,"4 - 1036 Bland St, Halifax, NS", 202201199,UPDATED,
+29,"$225,000",3 bed,1 bath,"51 Acacia St, Dartmouth, NS", 202201141,UPDATED,
+30,"$1,514,500",2 bed,3 bath,"1707 - 1650 Granville St, Halifax, NS", 202201059,COLLECTION,UPDATED
+31,"$1,014,500",2 bed,3 bath,"1005 - 1650 Granville St, Halifax, NS", 202201057,COLLECTION,UPDATED
+32,"$499,000",1 bed,2 bath,"3 - 31 Kings Wharf Pl, Dartmouth, NS", 202200906,UPDATED,
+33,"$1,357,500",2 bed,3 bath,"2007 - 1650 Granville St, Halifax, NS", 202200866,COLLECTION,
+34,"$1,200,000",n/a bed,n/a bath,"1289 South Park St, Halifax, NS", 202200791,UPDATED,
+35,"$1,299,900",n/a bed,n/a bath,"1626 Edward St, Halifax, NS", 202200604,,
+36,"$2,000,000",n/a bed,n/a bath,"1524 - 1526 Chestnut St, Halifax, NS", 202200036,UPDATED,
+37,"$1,499,000",4 bed,4 bath,"598 Stanhope St, Halifax, NS", 202129804,COLLECTION,
+38,"$1,299,000",6 bed,3 bath,"6299 Almon St, Halifax, NS", 202129363,COLLECTION,UPDATED
+39,"$1,299,000",2 bed,2 bath,"1601 - 1465 Brenton St, Halifax, NS", 202129340,COLLECTION,
+40,"$1,950,000",n/a bed,n/a bath,"1668 Larch St, Halifax, NS", 202129356,,
+41,"$1,550,000",n/a bed,n/a bath,"1669 - 1671 Larch St, Halifax, NS", 202129355,,
+42,"$949,900",2 bed,2 bath,"1203 - 31 Kings Wharf Pl, Dartmouth, NS", 202129180,COLLECTION,UPDATED
+43,"$1,350,000",n/a bed,n/a bath,"6188 Duncan St, Halifax, NS", 202128947,UPDATED,
+44,"$2,875,000",n/a bed,n/a bath,"2391 Agricola St, Halifax, NS", 202128715,UPDATED,
+45,"$1,225,000",n/a bed,n/a bath,"6362 Pepperell St, Halifax, NS", 202128289,UPDATED,
+46,"$1,339,500",2 bed,3 bath,"1906 - 1650 Granville St, Halifax, NS", 202128087,COLLECTION,
+47,"$1,595,000",3 bed,2 bath,"848 Marlborough Ave, Halifax, NS", 202127660,COLLECTION,UPDATED
+48,"$390,000",1 bed,1 bath,"704 - 1326 Lower Water St, Halifax, NS", 202127283,UPDATED,
+49,"$834,000",3 bed,2 bath,"2018 Elm St, Halifax, NS", 202126915,UPDATED,
+50,"$5,100,000",n/a bed,n/a bath,"6459 Bayers Rd, Halifax, NS", 202126503,,
+51,"$5,100,000",0 bed,0 + 0 bath,"6445 Bayers Rd, Halifax, NS", 202126498,COLLECTION,
+52,"$5,100,000",0 bed,0 + 0 bath,"6449 Bayers Rd, Halifax, NS", 202126499,COLLECTION,
+53,"$5,100,000",0 bed,0 + 0 bath,"6455 Bayers Rd, Halifax, NS", 202126500,COLLECTION,
+54,"$929,000",4 bed,4 bath,"6 Shore Rd, Dartmouth, NS", 202125862,COLLECTION,
+55,"$1,800,000",n/a bed,n/a bath,"6036 Cunard St, Halifax, NS", 202125489,,
+56,"$590,000",2 bed,2 bath,"805 - 67 Kings Wharf Pl, Dartmouth, NS", 202122367,UPDATED,
+57,"$449,900",4 bed,2 bath,"528 Pleasant St, Dartmouth, NS", 202122358,,
+58,"$675,000",n/a bed,n/a bath,"40 Hastings Dr, Dartmouth, NS", 202121899,UPDATED,
+59,"$1,550,000",n/a bed,n/a bath,"1663 Edward St, Halifax, NS", 202116693,UPDATED,
+60,"$1,440,000",4 bed,4 bath,"769 Bower Rd, Halifax, NS", 202115181,COLLECTION,UPDATED
+61,"$1,289,000",3 bed,2 bath,"304 - 1445 South Park St, Halifax, NS", 202112751,COLLECTION,UPDATED
+62,"$249,900",n/a bed,n/a bath,"14 Albert St, Dartmouth, NS", 202101453,,
+63,"$3,500,000",0 bed,0 + 0 bath,"Penthouse 1477 Lower Water Street, Halifax, NS", 202024544,COLLECTION,UPDATED
+64,"$2,500,000",0 bed,0 + 0 bath,"6 - 1477 Lower Water St, Halifax, NS", 202024545,COLLECTION,
+65,"$1,695,000",3 bed,3 bath,"1801 - 6369 Coburg Rd, Halifax, NS", 202020964,COLLECTION,
